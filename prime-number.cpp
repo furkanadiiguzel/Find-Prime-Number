@@ -1,4 +1,3 @@
-// CTIS151-LG15_Q2
 // Purpose: Program reads the numbers.txt then finds the prime numbers
 // after finding prime numbers program finds the maximum prime number and its subscript
 #define _CRT_SECURE_NO_WARNINGS 1
